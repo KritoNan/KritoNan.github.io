@@ -286,17 +286,6 @@
             </section>
         </section>
     </article>
-
-
-
-
-    <footer class="footer">
-        <p>© 2021 张一楠.文档最后更新时间为
-            <time>2021年07月10日</time>
-            
-    </footer>
-
+       
     <script src="./assets/js/index.js"></script>
-</body>
 
-</html>
